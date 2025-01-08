@@ -3,6 +3,7 @@ module github.com/the2sang/svc-timeout/server
 go 1.23.4
 
 require (
+	github.com/the2sang/svc-timeout/service v0.0.0-20250108061019-999b16cd4d32 // indirect
 	golang.org/x/net v0.30.0 // indirect
 	golang.org/x/sys v0.26.0 // indirect
 	golang.org/x/text v0.19.0 // indirect
